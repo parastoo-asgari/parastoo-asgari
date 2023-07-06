@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parastoo-asgari" alt="parastoo-asgari" /></a> </p>
 
-- 💬 Ask me about **React,js,css3,html5,...**
+- 💬 Ask me about **css3,html5,Sass**
 
 - 📫 How to reach me **asgariparastoo93@gmail.com**
 
